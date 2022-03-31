@@ -1,0 +1,42 @@
+{
+    "name": "dark-khan",
+    "displayName": "Dark Khan",
+    "description": "An elegant dark theme with vibrant foreground colors.",
+    "version": "0.0.1",
+    "author": "Farkhan Azmi <fliazmi@gmail.com>",
+    "publisher": "Khan",
+    "engines": {
+      "vscode": "^1.65.2"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/mcagampan/dark-horizon"
+    },
+    "bugs": {
+      "url": "https://github.com/mcagampan/dark-horizon/issues"
+    },
+    "galleryBanner": {
+      "color": "#0e0e0e",
+      "theme": "dark"
+    },
+    "icon": "logo.png",
+    "categories": [
+      "Themes"
+    ],
+    "keywords": [
+      "dark",
+      "dark theme",
+      "black",
+      "black theme"
+    ],
+    "contributes": {
+      "themes": [
+        {
+          "label": "Dark Horizon",
+          "uiTheme": "vs-dark",
+          "path": "./themes/khan-color-theme.json"
+        }
+      ]
+    }
+  }
+  
