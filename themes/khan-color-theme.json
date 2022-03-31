@@ -2,7 +2,7 @@
 	"name": "Dark Khan",
 	"type": "dark",
 	"colors": {
-		"focusBorder": "#1A1C23",
+		"focusBorder": "#171717",
 		"foreground": "#D5D8DA",
 		"widget.shadow": "#16161C",
 		"selection.background": "#6C6F9380",
@@ -16,10 +16,10 @@
 		"inputOption.activeBorder": "#E9436D80",
 		"inputValidation.errorBackground": "#F43E5C80",
 		"inputValidation.errorBorder": "#F43E5C00",
-		"scrollbar.shadow": "#16161C",
-		"scrollbarSlider.activeBackground": "#6C6F9380",
+		"scrollbar.shadow": "#171717",
+		"scrollbarSlider.activeBackground": "#171717",
 		"scrollbarSlider.background": "#6C6F931A",
-		"scrollbarSlider.hoverBackground": "#6C6F934D",
+		"scrollbarSlider.hoverBackground": "#171717",
 		"badge.foreground": "#D5D8DA",
 		"badge.background": "#2E303E",
 		"progressBar.background": "#E95378",
@@ -36,26 +36,25 @@
 		"list.inactiveFocusBackground": "#2E303E80",
 		"list.errorForeground": "#F43E5CE6",
 		"list.warningForeground": "#27D797B3",
-		"activityBar.background": "#1C1E26",
-		"activityBar.dropBackground": "#6C6F9380",
+		"activityBar.background": "#171717",
 		"activityBar.foreground": "#D5D8DAB3",
 		"activityBarBadge.background": "#E95378",
 		"activityBarBadge.foreground": "#06060C",
-		"sideBar.background": "#1C1E26",
+		"sideBar.background": "#171717",
 		"sideBar.foreground": "#D5D8DA80",
 		"sideBar.dropBackground": "#6C6F934D",
-		"sideBarSectionHeader.background": "#1C1E26",
+		"sideBarSectionHeader.background": "#171717",
 		"sideBarSectionHeader.foreground": "#D5D8DAB3",
 		"editorGroup.border": "#1A1C23",
 		"editorGroup.dropBackground": "#6C6F934D",
-		"editorGroupHeader.tabsBackground": "#1C1E26",
-		"tab.border": "#1C1E2600",
+		"editorGroupHeader.tabsBackground": "#171717",
+		"tab.border": "#17171700",
 		"tab.activeBorder": "#E95378",
-		"tab.inactiveBackground": "#1C1E26",
-		"editor.background": "#1C1E26",
+		"tab.inactiveBackground": "#171717",
+		"editor.background": "#171717",
 		"editorLineNumber.foreground": "#D5D8DA1A",
 		"editorLineNumber.activeForeground": "#D5D8DA80",
-		"editorCursor.background": "#1C1E26",
+		"editorCursor.background": "#171717",
 		"editorCursor.foreground": "#E95378",
 		"editor.selectionBackground": "#2E303EB3",
 		"editor.selectionHighlightBackground": "#6C6F934D",
@@ -99,16 +98,16 @@
 		"peekViewResult.selectionBackground": "#2E303E80",
 		"peekViewTitle.background": "#232530",
 		"panelTitle.activeBorder": "#E95378",
-		"statusBar.background": "#1C1E26",
+		"statusBar.background": "#171717",
 		"statusBar.foreground": "#D5D8DA80",
 		"statusBar.debuggingBackground": "#FAB38E",
 		"statusBar.debuggingForeground": "#06060C",
-		"statusBar.noFolderBackground": "#1C1E26",
+		"statusBar.noFolderBackground": "#171717",
 		"statusBarItem.hoverBackground": "#2E303E",
 		"statusBarItem.prominentBackground": "#2E303E",
 		"statusBarItem.prominentHoverBackground": "#6C6F93",
-		"titleBar.activeBackground": "#1C1E26",
-		"titleBar.inactiveBackground": "#1C1E26",
+		"titleBar.activeBackground": "#171717",
+		"titleBar.inactiveBackground": "#171717",
 		"extensionButton.prominentBackground": "#E95378",
 		"extensionButton.prominentHoverBackground": "#E9436D",
 		"pickerGroup.foreground": "#E95378E6",
@@ -128,7 +127,7 @@
 		"terminal.selectionBackground": "#6C6F934D",
 		"terminalCursor.background": "#D5D8DA",
 		"terminalCursor.foreground": "#6C6F9380",
-		"debugToolBar.background": "#1C1E26",
+		"debugToolBar.background": "#171717",
 		"walkThrough.embeddedEditorBackground": "#232530",
 		"gitDecoration.addedResourceForeground": "#27D797B3",
 		"gitDecoration.modifiedResourceForeground": "#FAB38E",
@@ -173,7 +172,7 @@
 		"scope": "entity.name.tag",
 		"settings": {
 			"foreground": "#E95678E6",
-			"fontStyle": "normal"
+			"fontStyle": "italic"
 		}
 	}, {
 		"name": "Static types",
@@ -314,7 +313,7 @@
 			"foreground": "#25B0BCE6"
 		}
 	}, {
-		"name": "Provieded variables",
+		"name": "Provided variables",
 		"scope": "support.variable",
 		"settings": {
 			"foreground": "#E95678E6"
@@ -355,7 +354,7 @@
 		"scope": "punctuation.definition.tag",
 		"settings": {
 			"foreground": "#E95678B3",
-			"fontStyle": "normal"
+			"fontStyle": "italic"
 		}
 	}, {
 		"name": "Key/value separators",
