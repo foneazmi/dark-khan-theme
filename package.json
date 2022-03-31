@@ -32,7 +32,7 @@
     "contributes": {
       "themes": [
         {
-          "label": "Dark Horizon",
+          "label": "Dark Khan",
           "uiTheme": "vs-dark",
           "path": "./themes/khan-color-theme.json"
         }
