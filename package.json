@@ -2,7 +2,7 @@
     "name": "dark-khan",
     "displayName": "Dark Khan",
     "description": "Yet Another Dark Theme VSCode",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "author": "Farkhan Azmi <fliazmi@gmail.com>",
     "publisher": "Khan",
     "scripts": {
