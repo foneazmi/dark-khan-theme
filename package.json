@@ -5,6 +5,9 @@
     "version": "0.0.2",
     "author": "Farkhan Azmi <fliazmi@gmail.com>",
     "publisher": "Khan",
+    "scripts": {
+      "build":"vsce package"
+    },
     "engines": {
       "vscode": "^1.65.2"
     },
